@@ -17,7 +17,7 @@ or <a href="mailto:ishan2198@hotmail.com"><b>email</b></a> me
 
 </div>
 
-## ⚡ Technologies
+## ⚡ Technologies Known
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
