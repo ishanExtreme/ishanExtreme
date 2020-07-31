@@ -56,7 +56,7 @@ or <a href="mailto:ishan2198@hotmail.com"><b>email</b></a> me
 ---
 <div align="center">
   
-<i>Happy Coding!</i> 😊
+<img src="https://github.com/ishanExtreme/ishanExtreme/blob/master/Bye.gif" alt="Bye!" width="600"/>
 
 <i>Follow me around the web:</i><br>
 
