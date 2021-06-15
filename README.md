@@ -21,6 +21,7 @@ or <a href="mailto:ishan2198@hotmail.com"><b>email</b></a> me
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![react](https://badges.aleen42.com/src/react.svg)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -34,12 +35,11 @@ or <a href="mailto:ishan2198@hotmail.com"><b>email</b></a> me
 
 ## 🗄 My projects:
 
+[![Truth Dare ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ishanExtreme&repo=Truth_Dare&show_owner=true&theme=dark)](https://github.com/ishanExtreme/Truth_Dare)
 
 [![Eagle-AI-GUI ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ishanExtreme&repo=Eagle-AI-GUI&show_owner=true&theme=dark)](https://github.com/ishanExtreme/Eagle-AI-GUI)
 
 [![Corona_Predictor ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ishanExtreme&repo=Corona_Predictor&show_owner=true&theme=dark)](https://github.com/ishanExtreme/Corona_Predictor)
-
-[![Blog ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ishanExtreme&repo=Blog&show_owner=true&theme=dark)](https://github.com/ishanExtreme/Blog)
 
 [![RealTimeParkingSystem ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ishanExtreme&repo=RealTimeParkingSystem&show_owner=true&theme=dark)](https://github.com/ishanExtreme/RealTimeParkingSystem)
 
