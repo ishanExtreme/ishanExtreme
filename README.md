@@ -66,3 +66,5 @@ or <a href="mailto:ishan2198@hotmail.com"><b>email</b></a> me
 
 </div>
 
+![Snake animation](https://github.com/ishanExtreme/ishanExtreme/blob/master/github-contribution-grid-snake.svg)
+
