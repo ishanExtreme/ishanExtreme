@@ -13,7 +13,7 @@
 Welcome to my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/ishanExtreme/ishanExtreme/issues/new"><b>here</b></a><br>
-or <a href="mailto:ishan2198@hotmail.com"><b>email</b></a> me
+or <a href="mailto:ishanmishra.work@outlook.com"><b>email</b></a> me
 
 </div>
 
